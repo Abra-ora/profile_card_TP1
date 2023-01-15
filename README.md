@@ -2,4 +2,4 @@
 
 # App screenShot
 
-![alt text](https://github.com/Abra-ora/profile_card_TP1/tree/master/lib/tp1-profile-card.png)
+![alt text]([http://url/to/img.png](https://github.com/Abra-ora/profile_card_TP1/blob/master/lib/tp1-profile-card.png))
